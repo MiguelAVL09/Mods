@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Versión](https://img.shields.io/badge/Versión-v1.4.0-10b981?style=for-the-badge&logo=electron&logoColor=white)](https://github.com/MiguelAVL09/Mods/releases/latest)
+[![Versión](https://img.shields.io/badge/Versión-v1.4.1-10b981?style=for-the-badge&logo=electron&logoColor=white)](https://github.com/MiguelAVL09/Mods/releases/latest)
 [![Plataforma](https://img.shields.io/badge/Plataforma-Windows_x64-0078d7?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/MiguelAVL09/Mods/releases/latest)
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.16_a_1.21+-65a30d?style=for-the-badge&logo=minecraft&logoColor=white)](https://github.com/MiguelAVL09/Mods)
 [![Discord RPC](https://img.shields.io/badge/Discord-Rich_Presence-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
@@ -11,7 +11,7 @@
 **La solución definitiva para creadores de modpacks y comunidades de jugadores.**  
 *Mantén a todos tus amigos sincronizados al 100% en tiempo real o mediante la nube 24/7, sin pasar gigabytes por Drive o Mega.*
 
-[📥 **Descargar Instalador (Setup v1.4.0)**](https://github.com/MiguelAVL09/Mods/releases/latest/download/ModSync.Pro.Setup.1.4.0.exe) • [⚡ **Versión Portable (Sin instalación)**](https://github.com/MiguelAVL09/Mods/releases/latest/download/ModSync.Pro.1.4.0.exe) • [✨ **Novedades v1.4.0**](#-novedades-de-la-versión-v140)
+[📥 **Descargar Instalador (Setup v1.4.1)**](https://github.com/MiguelAVL09/Mods/releases/latest/download/ModSync.Pro.Setup.1.4.1.exe) • [⚡ **Versión Portable (Sin instalación)**](https://github.com/MiguelAVL09/Mods/releases/latest/download/ModSync.Pro.1.4.1.exe) • [✨ **Novedades v1.4.1**](#-novedades-de-la-versión-v141)
 
 </div>
 
@@ -34,28 +34,33 @@
 
 ## 🌟 Características Principales
 
-### 🎮 1. Modo Juego Automático (¡Nuevo en v1.4.0!)
+### ✨ 1. Interfaz Glassmorphism de Nueva Generación & Dock de Herramientas (¡Nuevo en v1.4.1!)
+* **Dock de Herramientas Rápidas Dedicado**: Todas las utilidades (`🩺 Doctor de Crashes`, `⚡ Optimizar FPS`, `📜 Historial`, `🧹 Limpiar Caché`, `📸 Capturas F2`, `🔍 Cliente vs Servidor` y `📦 Exportar Modpack`) se ubican en un dock inferior responsivo estilo cristal sin desbordes ni recortes.
+* **Animaciones con Física Elástica y Destellos de Luz**: Botones interactivos con barrido diagonal de luz (*shimmer*), elevación suave, barra de pestañas segmentada flotante y tarjetas de métricas con bordes luminosos.
+* **Buscador Instantáneo de Mods**: Filtra en tiempo real modpacks masivos (450+ mods) por nombre o por estado (*Obligatorios* vs *Opcionales*).
+
+### 🎮 2. Modo Juego Automático (v1.4.0)
 * **100% FPS Garantizados**: Detecta automáticamente cuando abres Minecraft (`javaw.exe`).
 * ModSync Pro reduce su uso de CPU al mínimo absoluto, suspende los escaneos de disco periódicos y silencia alertas secundarias mientras estás jugando para que no experimentes caídas de rendimiento.
 
-### 🔍 2. Clasificador de Mods: Cliente vs Servidor (¡Nuevo en v1.4.0!)
+### 🔍 3. Clasificador de Mods: Cliente vs Servidor (v1.4.0)
 * Analiza toda tu carpeta de mods y clasifica qué archivos son **Solo Cliente** (Sodium, Minimapas, Shaders, JEI, Audio) y cuáles son **Servidor + Cliente** (Contenido, Bloques, Dimensiones).
 * Evita los temidos crashes de `ClassNotFoundException` al montar servidores dedicados.
 
-### 📦 3. Exportador Universal de Modpacks (¡Nuevo en v1.4.0!)
+### 📦 4. Exportador Universal de Modpacks (v1.4.0)
 * Exporta tu modpack en 1 clic directamente a tu Escritorio:
   * 🌐 **ZIP Universal**: Compatible con cualquier launcher (CurseForge, Modrinth, Prism, TL o manual).
   * 🖥️ **Paquete Limpio para Servidor**: Genera un `.zip` exclusivo para servidores dedicados, filtrando automáticamente todos los mods de cliente.
   * 📑 **Formato CurseForge**: Con estructura `overrides/` y `manifest.json`.
 
-### 📊 4. Monitor de Velocidad y Métricas en Tiempo Real (¡Nuevo en v1.4.0!)
+### 📊 5. Monitor de Velocidad y Métricas en Tiempo Real (v1.4.0)
 * Visualiza la velocidad de descarga en vivo en MB/s (`🚀 14.5 MB/s`), el tiempo estimado restante (`⏱️ 12s restantes`) y el progreso general durante la sincronización.
 
-### ☁️ 5. ModSync Cloud Hub 24/7 (GitHub)
+### ☁️ 6. ModSync Cloud Hub 24/7 (GitHub)
 * **Juega cuando quieras**: El Administrador publica los cambios una sola vez en el repositorio y los jugadores pueden sincronizarse **las 24 horas del día**, aunque el Admin tenga su computadora apagada.
 * **Empaquetado inteligente de configuraciones**: Sincroniza carpetas `config/`, `defaultconfigs/` y scripts KubeJS comprimidos en gzip para garantizar que todos jueguen exactamente con las mismas reglas.
 
-### 🧹 6. Limpiador de Espacio de Minecraft
+### 🧹 7. Limpiador de Espacio de Minecraft
 * **Ahorra gigabytes en tu disco**: Escanea y elimina con 1 clic archivos basura acumulados en Minecraft:
   * Logs antiguos comprimidos (`.log.gz`).
   * Historial de registros viejos (`.log`), protegiendo siempre `latest.log`.
@@ -63,14 +68,14 @@
   * Archivos temporales huérfanos (`.modsync-tmp-*`).
 * **100% Seguro**: Nunca borra tus mundos (`saves`), capturas de pantalla ni configuraciones personales.
 
-### 📸 7. Galería F2 & Copiado Directo a Discord
+### 📸 8. Galería F2 & Copiado Directo a Discord
 * Visualiza todas las capturas de pantalla tomadas con `F2` dentro de Minecraft en una galería fluida con miniaturas y fechas.
 * **Botón Copiar a Discord**: Coloca la imagen en el portapapeles de Windows en formato nativo. Solo ve a Discord o WhatsApp, presiona `Ctrl + V` y envíala al instante sin buscar carpetas.
 
-### 🎮 8. Discord Rich Presence Nativo
+### 🎮 9. Discord Rich Presence Nativo
 * Muestra en tu perfil de Discord qué modpack estás jugando, tu recuento de mods, tu estado de sincronización y tu tiempo de sesión.
 
-### 🔄 9. Auto-Actualizador en Tiempo Real
+### 🔄 10. Auto-Actualizador en Tiempo Real
 * ModSync Pro se actualiza a sí mismo en 1 clic.
 * Notificaciones nativas de Windows en cuanto se publica una nueva versión oficial en GitHub.
 * **Pantalla de bienvenida y novedades**: Tras actualizar, una ventana emergente te describe las nuevas funciones añadidas para que no te pierdas nada.
@@ -85,8 +90,8 @@
 * **Launchers compatibles**: Cualquier launcher oficial o alternativo (CurseForge, Modrinth App, Prism Launcher, TL, Launcher Oficial de Mojang, ATLauncher, etc.).
 
 ### Opciones de Descarga
-1. **[Instalador Recomendado (.exe)](https://github.com/MiguelAVL09/Mods/releases/latest/download/ModSync.Pro.Setup.1.4.0.exe)**: Crea accesos directos, se actualiza automáticamente y se integra con la bandeja del sistema.
-2. **[Versión Portable (.exe)](https://github.com/MiguelAVL09/Mods/releases/latest/download/ModSync.Pro.1.4.0.exe)**: Ejecútala directamente desde cualquier carpeta o memoria USB sin instalar nada.
+1. **[Instalador Recomendado (.exe)](https://github.com/MiguelAVL09/Mods/releases/latest/download/ModSync.Pro.Setup.1.4.1.exe)**: Crea accesos directos, se actualiza automáticamente y se integra con la bandeja del sistema.
+2. **[Versión Portable (.exe)](https://github.com/MiguelAVL09/Mods/releases/latest/download/ModSync.Pro.1.4.1.exe)**: Ejecútala directamente desde cualquier carpeta o memoria USB sin instalar nada.
 
 ---
 
@@ -109,7 +114,13 @@
 
 ---
 
-## 📋 Novedades de la Versión v1.4.0
+## 📋 Novedades de la Versión v1.4.1
+* ✨ **Nuevo Dock de Herramientas Rápidas**: Rediseño completo de la tarjeta principal que organiza todas las herramientas en una barra dedicada inferior con efecto Glassmorphism, eliminando cualquier recorte o desborde visual.
+* 🌊 **Botones y Animaciones Mejoradas**: Efecto de barrido de luz diagonal (*shimmer*), transiciones con física elástica (*spring*) y micro-interacciones en iconos.
+* 💎 **Tarjetas de Estadísticas & Pestañas Segmentadas**: Bordes superiores en gradiente luminoso, elevación dinámica al pasar el cursor y barra de navegación segmentada estilo cristal.
+* 🔍 **Buscador y Filtro Instantáneo de Mods**: Encuentra cualquier mod al instante en carpetas con cientos de archivos o filtra entre obligatorios y opcionales.
+
+### Novedades Anteriores (v1.4.0)
 * 🎮 **Modo Juego Automático**: Suspende tareas en segundo plano mientras Minecraft está abierto para garantizar 100% de FPS.
 * 🔍 **Detector de Mods Cliente vs Servidor**: Evita incompatibilidades y crashes en servidores dedicados.
 * 📦 **Exportador Universal de Modpacks**: Exporta a ZIP universal, paquete para servidor dedicado o formato CurseForge en 1 clic.
