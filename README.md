@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Versión](https://img.shields.io/badge/Versión-v1.4.1-10b981?style=for-the-badge&logo=electron&logoColor=white)](https://github.com/MiguelAVL09/Mods/releases/latest)
+[![Versión](https://img.shields.io/badge/Versión-v1.5.0-10b981?style=for-the-badge&logo=electron&logoColor=white)](https://github.com/MiguelAVL09/Mods/releases/latest)
 [![Plataforma](https://img.shields.io/badge/Plataforma-Windows_x64-0078d7?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/MiguelAVL09/Mods/releases/latest)
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.16_a_1.21+-65a30d?style=for-the-badge&logo=minecraft&logoColor=white)](https://github.com/MiguelAVL09/Mods)
 [![Discord RPC](https://img.shields.io/badge/Discord-Rich_Presence-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
@@ -11,7 +11,7 @@
 **La solución definitiva para creadores de modpacks y comunidades de jugadores.**  
 *Mantén a todos tus amigos sincronizados al 100% en tiempo real o mediante la nube 24/7, sin pasar gigabytes por Drive o Mega.*
 
-[📥 **Descargar Instalador (Setup v1.4.1)**](https://github.com/MiguelAVL09/Mods/releases/latest/download/ModSync.Pro.Setup.1.4.1.exe) • [⚡ **Versión Portable (Sin instalación)**](https://github.com/MiguelAVL09/Mods/releases/latest/download/ModSync.Pro.1.4.1.exe) • [✨ **Novedades v1.4.1**](#-novedades-de-la-versión-v141)
+[📥 **Descargar Instalador (Setup v1.5.0)**](https://github.com/MiguelAVL09/Mods/releases/latest/download/ModSync.Pro.Setup.1.5.0.exe) • [⚡ **Versión Portable (Sin instalación)**](https://github.com/MiguelAVL09/Mods/releases/latest/download/ModSync.Pro.1.5.0.exe) • [✨ **Novedades v1.5.0**](#-novedades-de-la-versión-v150)
 
 </div>
 
@@ -34,7 +34,12 @@
 
 ## 🌟 Características Principales
 
-### ✨ 1. Interfaz Glassmorphism de Nueva Generación & Dock de Herramientas (¡Nuevo en v1.4.1!)
+### 🎬 1. Animación Cinematográfica de Inicio & Estudio de Personalización Pro (¡Nuevo en v1.5.0!)
+* **Boot Splash Holográfico 3D**: Al iniciar ModSync Pro te recibe una animación cinematográfica con cubo 3D luminoso, triple anillo de energía en rotación, partículas flotantes, saludo personalizado y entrada escalonada de la interfaz (configurable en modo *Cinematográfico*, *Rápido* o *Desactivado*).
+* **8 Temas Visuales Oficiales**: Incluye *Obsidiana Neón* 🌌, *Hatsune Miku 01* 🎵 (con playlist de 25 canciones Vocaloid), *Cherry Blossom* 🌸, *Nether Void* 🔥, *Sculk Deep Dark* 💠, y los 3 nuevos temas **Ender Amethyst** 🔮, **Cyberpunk Gold** ⚡ y **Glacial Frost** ❄️.
+* **Personalización Total**: Selector libre de **Color de Acento**, **Efectos Ambientales de Fondo** (*Orbes de Neón*, *Estrellas del End*, *Red Cibernética*, *Minimalista*), control deslizante de **Intensidad de Cristal (Glass Blur)**, **Estilo de Bordes** (*Estándar*, *Cápsula Suave*, *Compacto Gamer*), **Halo de Luz Interactivo en el Cursor** y **Tarjeta de Identidad** en la barra lateral con tu Insignia/Avatar y Título de Rango.
+
+### ✨ 2. Interfaz Glassmorphism de Nueva Generación & Dock de Herramientas (v1.4.1)
 * **Dock de Herramientas Rápidas Dedicado**: Todas las utilidades (`🩺 Doctor de Crashes`, `⚡ Optimizar FPS`, `📜 Historial`, `🧹 Limpiar Caché`, `📸 Capturas F2`, `🔍 Cliente vs Servidor` y `📦 Exportar Modpack`) se ubican en un dock inferior responsivo estilo cristal sin desbordes ni recortes.
 * **Animaciones con Física Elástica y Destellos de Luz**: Botones interactivos con barrido diagonal de luz (*shimmer*), elevación suave, barra de pestañas segmentada flotante y tarjetas de métricas con bordes luminosos.
 * **Buscador Instantáneo de Mods**: Filtra en tiempo real modpacks masivos (450+ mods) por nombre o por estado (*Obligatorios* vs *Opcionales*).
@@ -90,8 +95,8 @@
 * **Launchers compatibles**: Cualquier launcher oficial o alternativo (CurseForge, Modrinth App, Prism Launcher, TL, Launcher Oficial de Mojang, ATLauncher, etc.).
 
 ### Opciones de Descarga
-1. **[Instalador Recomendado (.exe)](https://github.com/MiguelAVL09/Mods/releases/latest/download/ModSync.Pro.Setup.1.4.1.exe)**: Crea accesos directos, se actualiza automáticamente y se integra con la bandeja del sistema.
-2. **[Versión Portable (.exe)](https://github.com/MiguelAVL09/Mods/releases/latest/download/ModSync.Pro.1.4.1.exe)**: Ejecútala directamente desde cualquier carpeta o memoria USB sin instalar nada.
+1. **[Instalador Recomendado (.exe)](https://github.com/MiguelAVL09/Mods/releases/latest/download/ModSync.Pro.Setup.1.5.0.exe)**: Crea accesos directos, se actualiza automáticamente y se integra con la bandeja del sistema.
+2. **[Versión Portable (.exe)](https://github.com/MiguelAVL09/Mods/releases/latest/download/ModSync.Pro.1.5.0.exe)**: Ejecútala directamente desde cualquier carpeta o memoria USB sin instalar nada.
 
 ---
 
@@ -114,7 +119,13 @@
 
 ---
 
-## 📋 Novedades de la Versión v1.4.1
+## 📋 Novedades de la Versión v1.5.0
+* 🎬 **Animación Cinematográfica de Arranque (Boot Splash)**: Pantalla de inicio holográfica con cubo 3D, triple anillo de energía, saludo personalizado con tu avatar, acorde de sonido sintetizado y entrada escalonada de la interfaz.
+* 🎨 **Estudio de Personalización Pro & 3 Nuevos Temas (8 en Total)**: Nuevos temas *Ender Amethyst* 🔮, *Cyberpunk Gold* ⚡ y *Glacial Frost* ❄️, selector libre de color de acento, 4 modos de fondo ambiental, control de desenfoque de cristal (*Glass Blur*), 3 estilos de bordes y halo de luz en el cursor.
+* 👑 **Tarjeta de Identidad del Jugador / Creador**: Personaliza tu insignia/avatar, nickname y título de rango en la barra lateral.
+* ☁️ **Motor Cloud Hub & Auto-Actualizador Blindado**: Resolución DNS directa contra bloqueos de router, subida en streaming con timeout dinámico para mods pesados (+100 MB), soporte para nombres con corchetes (`[fabric]`) e instalador único sin bloqueo `EBUSY`.
+
+### Novedades Anteriores (v1.4.1)
 * ✨ **Nuevo Dock de Herramientas Rápidas**: Rediseño completo de la tarjeta principal que organiza todas las herramientas en una barra dedicada inferior con efecto Glassmorphism, eliminando cualquier recorte o desborde visual.
 * 🌊 **Botones y Animaciones Mejoradas**: Efecto de barrido de luz diagonal (*shimmer*), transiciones con física elástica (*spring*) y micro-interacciones en iconos.
 * 💎 **Tarjetas de Estadísticas & Pestañas Segmentadas**: Bordes superiores en gradiente luminoso, elevación dinámica al pasar el cursor y barra de navegación segmentada estilo cristal.
